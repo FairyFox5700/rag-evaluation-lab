@@ -1,0 +1,24 @@
+{
+  "experiment": "offline-k1",
+  "test_count": 20,
+  "threshold": 0.5,
+  "config": {
+    "mode": "offline-smoke",
+    "retriever": "lexical",
+    "retriever_k": 1,
+    "chunk_size": 450,
+    "chunk_overlap": 60
+  },
+  "averages": {
+    "answer_relevancy": 0.551429,
+    "contextual_relevancy": 0.658095,
+    "correctness": 0.34133,
+    "faithfulness": 1.0
+  },
+  "pass_rates": {
+    "answer_relevancy": 0.65,
+    "contextual_relevancy": 0.8,
+    "correctness": 0.3,
+    "faithfulness": 1.0
+  }
+}

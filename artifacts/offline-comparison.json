@@ -1,0 +1,58 @@
+[
+  {
+    "experiment": "offline-k1",
+    "metric": "answer_relevancy",
+    "average": 0.551429,
+    "pass_rate": 0.65,
+    "delta": 0.0
+  },
+  {
+    "experiment": "offline-k1",
+    "metric": "contextual_relevancy",
+    "average": 0.658095,
+    "pass_rate": 0.8,
+    "delta": 0.0
+  },
+  {
+    "experiment": "offline-k1",
+    "metric": "correctness",
+    "average": 0.34133,
+    "pass_rate": 0.3,
+    "delta": 0.0
+  },
+  {
+    "experiment": "offline-k1",
+    "metric": "faithfulness",
+    "average": 1.0,
+    "pass_rate": 1.0,
+    "delta": 0.0
+  },
+  {
+    "experiment": "offline-k3",
+    "metric": "answer_relevancy",
+    "average": 0.568095,
+    "pass_rate": 0.7,
+    "delta": 0.016666
+  },
+  {
+    "experiment": "offline-k3",
+    "metric": "contextual_relevancy",
+    "average": 0.745238,
+    "pass_rate": 0.95,
+    "delta": 0.087143
+  },
+  {
+    "experiment": "offline-k3",
+    "metric": "correctness",
+    "average": 0.423415,
+    "pass_rate": 0.4,
+    "delta": 0.082085
+  },
+  {
+    "experiment": "offline-k3",
+    "metric": "faithfulness",
+    "average": 1.0,
+    "pass_rate": 1.0,
+    "delta": 0.0
+  }
+]

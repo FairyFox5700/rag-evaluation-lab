@@ -1,0 +1,20 @@
+{"id":"habitat","question":"Where do penguins live?","expected_answer":"Penguins live naturally in the Southern Hemisphere, including Antarctica, South America, southern Africa, Australia, New Zealand, and the Galapagos Islands."}
+{"id":"flight","question":"Why can't penguins fly?","expected_answer":"Penguin wings evolved into strong, stiff flippers adapted for swimming rather than flight."}
+{"id":"water-movement","question":"How do penguins move through the water?","expected_answer":"Penguins paddle with their flippers while their feet and tail help them steer."}
+{"id":"swimming-efficiency","question":"What helps penguins swim quickly and efficiently?","expected_answer":"Their streamlined bodies reduce drag and their strong flippers propel them through the water."}
+{"id":"warmth","question":"How do penguins stay warm in cold water?","expected_answer":"A layer of body fat, densely packed feathers, and trapped air provide insulation."}
+{"id":"preening","question":"Why do penguins preen their feathers?","expected_answer":"Preening aligns the feathers and spreads protective oils, maintaining a waterproof outer layer."}
+{"id":"countershading","question":"What is countershading in penguins?","expected_answer":"Countershading is the dark back and pale belly pattern that helps penguins blend into the water from above and below."}
+{"id":"color-survival","question":"How does black-and-white coloring help a penguin survive?","expected_answer":"The coloring provides camouflage from predators and prey when viewed from above or below."}
+{"id":"diet","question":"What do penguins eat?","expected_answer":"Penguins mainly eat marine animals such as krill, fish, and squid."}
+{"id":"diet-variation","question":"Do all penguins eat the same food?","expected_answer":"No. Diet varies by species, season, and location; smaller species may favor krill and small fish while larger species pursue larger fish and squid."}
+{"id":"hunting","question":"How do penguins hunt for food?","expected_answer":"They hunt by sight and make repeated dives during feeding trips."}
+{"id":"feeding-distance","question":"Do all penguins feed close to shore?","expected_answer":"No. Some feed near shore while others travel many kilometers to productive feeding areas."}
+{"id":"breeding","question":"Where do many penguins breed?","expected_answer":"Many species breed in large colonies where thousands of birds nest close together."}
+{"id":"courtship","question":"How do penguin partners recognize one another during courtship?","expected_answer":"Calls, postures, and repeated movements help partners recognize each other."}
+{"id":"nests","question":"What materials do penguins use to make nests?","expected_answer":"Depending on species, nests may use pebbles or grass, or be shallow scrapes."}
+{"id":"emperor-incubation","question":"How do emperor penguins incubate their eggs?","expected_answer":"The male balances the single egg on his feet beneath a warm brood pouch."}
+{"id":"chick-care","question":"How do penguin parents care for their chicks?","expected_answer":"Parents may alternate between guarding the chick and returning from the sea with food."}
+{"id":"predators","question":"What animals prey on penguins?","expected_answer":"Predators include leopard seals, orcas, sharks, skuas, and giant petrels."}
+{"id":"human-threats","question":"What human activities threaten penguins?","expected_answer":"Threats include overfishing, pollution, habitat disturbance, introduced predators, and accidental capture in fishing gear."}
+{"id":"ocean-health","question":"Why are penguins useful indicators of ocean health?","expected_answer":"Their survival and breeding depend on prey and ocean conditions, so population changes can indicate ocean ecosystem health."}
